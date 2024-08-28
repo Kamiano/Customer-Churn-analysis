@@ -39,6 +39,9 @@ Country Filter:
 A slicer that allows filtering the data by the customer's country of residence, enabling a more focused analysis on geographic patterns of churn.
 Conclusion
 This dashboard offers valuable insights into the factors that influence customer churn, particularly focusing on tenure, salary, age, and credit score. By using these visualizations, bank management can better understand the drivers of churn and develop strategies to improve customer retention.
+## Snippet
+![image](https://github.com/user-attachments/assets/570352f8-2080-41ce-9655-c1953eab6abc)
+
 
 ## How to Use
 Clone the repository to your local machine.
